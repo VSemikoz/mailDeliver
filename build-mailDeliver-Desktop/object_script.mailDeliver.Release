@@ -1,0 +1,12 @@
+release/main.o
+release/appendmailgroup.o
+release/appendmailwindow.o
+release/database.o
+release/mailgroupsettings.o
+release/mainwindow.o
+release/settings.o
+release/moc_mainwindow.o
+release/moc_appendmailgroup.o
+release/moc_appendmailwindow.o
+release/moc_database.o
+release/moc_mailgroupsettings.o

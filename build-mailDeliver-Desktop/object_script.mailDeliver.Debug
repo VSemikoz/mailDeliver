@@ -1,0 +1,12 @@
+debug/main.o
+debug/appendmailgroup.o
+debug/appendmailwindow.o
+debug/database.o
+debug/mailgroupsettings.o
+debug/mainwindow.o
+debug/settings.o
+debug/moc_mainwindow.o
+debug/moc_appendmailgroup.o
+debug/moc_appendmailwindow.o
+debug/moc_database.o
+debug/moc_mailgroupsettings.o
