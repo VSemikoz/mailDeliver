@@ -14,17 +14,20 @@ SOURCES += main.cpp\
     database.cpp \
     mailgroupsettings.cpp \
     mainwindow.cpp \
-    settings.cpp
+    settings.cpp \
+    settingswindow.cpp
 
 HEADERS  += mainwindow.h \
     appendmailgroup.h \
     appendmailwindow.h \
     database.h \
     mailgroupsettings.h \
-    settings.h
+    settings.h \
+    settingswindow.h
 
 FORMS    += mainwindow.ui \
     appendmailgroup.ui \
     appendmailwindow.ui \
-    mailgroupsettings.ui
+    mailgroupsettings.ui \
+    settingswindow.ui
 

@@ -5,8 +5,8 @@ Settings::Settings(){
 }
 
 QMap<QString, QString> Settings::getSettingsList(){
-    QFile file("..//..//Settings.txt");
-//    QFile file("D://mail/Settings.txt"); uncommit for debug
+//    QFile file("..//..//Settings.txt");
+    QFile file("E://polovko/Settings.txt");
 
     if ((file.exists())&&(file.open(QIODevice::ReadOnly))){
         QString fileText =  file.readAll();
